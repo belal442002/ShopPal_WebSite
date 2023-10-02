@@ -1,0 +1,453 @@
+{
+  "Files": [
+    {
+      "Id": "E:\\materials\\ShoppingCart\\ShoppingCart\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\ShoppingCart.bundle.scp.css",
+      "PackagePath": "staticwebassets\\ShoppingCart.bundle.scp.css"
+    },
+    {
+      "Id": "E:\\materials\\ShoppingCart\\ShoppingCart\\wwwroot\\Images\\035b9ed7-4f3b-4ee3-ba1e-f14c29d108e2.jpg",
+      "PackagePath": "staticwebassets\\Images\\035b9ed7-4f3b-4ee3-ba1e-f14c29d108e2.jpg"
+    },
+    {
+      "Id": "E:\\materials\\ShoppingCart\\ShoppingCart\\wwwroot\\Images\\056a9a78-7fa1-4e44-a88e-028f9b966788.png",
+      "PackagePath": "staticwebassets\\Images\\056a9a78-7fa1-4e44-a88e-028f9b966788.png"
+    },
+    {
+      "Id": "E:\\materials\\ShoppingCart\\ShoppingCart\\wwwroot\\Images\\0d79bb30-e645-44f7-b7be-34c33e83b0e4.jpg",
+      "PackagePath": "staticwebassets\\Images\\0d79bb30-e645-44f7-b7be-34c33e83b0e4.jpg"
+    },
+    {
+      "Id": "E:\\materials\\ShoppingCart\\ShoppingCart\\wwwroot\\Images\\15f749f1-9fef-4b47-8fbb-d277417404de.jpg",
+      "PackagePath": "staticwebassets\\Images\\15f749f1-9fef-4b47-8fbb-d277417404de.jpg"
+    },
+    {
+      "Id": "E:\\materials\\ShoppingCart\\ShoppingCart\\wwwroot\\Images\\1865e6c2-bb90-4084-abe1-9a3d886fa0de.jpg",
+      "PackagePath": "staticwebassets\\Images\\1865e6c2-bb90-4084-abe1-9a3d886fa0de.jpg"
+    },
+    {
+      "Id": "E:\\materials\\ShoppingCart\\ShoppingCart\\wwwroot\\Images\\1e57a3a3-b0d8-4d25-a98c-1bfba66aecc1.jpg",
+      "PackagePath": "staticwebassets\\Images\\1e57a3a3-b0d8-4d25-a98c-1bfba66aecc1.jpg"
+    },
+    {
+      "Id": "E:\\materials\\ShoppingCart\\ShoppingCart\\wwwroot\\Images\\1ec4fb0a-30df-4e68-87c2-7521248ff21c.jpg",
+      "PackagePath": "staticwebassets\\Images\\1ec4fb0a-30df-4e68-87c2-7521248ff21c.jpg"
+    },
+    {
+      "Id": "E:\\materials\\ShoppingCart\\ShoppingCart\\wwwroot\\Images\\21c277fe-fae5-4bae-9226-dba9f9dcf1a1.jpg",
+      "PackagePath": "staticwebassets\\Images\\21c277fe-fae5-4bae-9226-dba9f9dcf1a1.jpg"
+    },
+    {
+      "Id": "E:\\materials\\ShoppingCart\\ShoppingCart\\wwwroot\\Images\\2baa7d12-dbad-4e59-9b92-4da5b41b67dc.jpg",
+      "PackagePath": "staticwebassets\\Images\\2baa7d12-dbad-4e59-9b92-4da5b41b67dc.jpg"
+    },
+    {
+      "Id": "E:\\materials\\ShoppingCart\\ShoppingCart\\wwwroot\\Images\\3309f5ab-d9b3-40bb-8076-670c3bdeab3c.png",
+      "PackagePath": "staticwebassets\\Images\\3309f5ab-d9b3-40bb-8076-670c3bdeab3c.png"
+    },
+    {
+      "Id": "E:\\materials\\ShoppingCart\\ShoppingCart\\wwwroot\\Images\\348b2984-7965-438c-a191-d75ec14adbb2.jpg",
+      "PackagePath": "staticwebassets\\Images\\348b2984-7965-438c-a191-d75ec14adbb2.jpg"
+    },
+    {
+      "Id": "E:\\materials\\ShoppingCart\\ShoppingCart\\wwwroot\\Images\\36ea979d-b289-4e24-93f1-15f6d9c2e066.jpg",
+      "PackagePath": "staticwebassets\\Images\\36ea979d-b289-4e24-93f1-15f6d9c2e066.jpg"
+    },
+    {
+      "Id": "E:\\materials\\ShoppingCart\\ShoppingCart\\wwwroot\\Images\\42744f82-fbaf-4db3-b561-1351d6664121.jpg",
+      "PackagePath": "staticwebassets\\Images\\42744f82-fbaf-4db3-b561-1351d6664121.jpg"
+    },
+    {
+      "Id": "E:\\materials\\ShoppingCart\\ShoppingCart\\wwwroot\\Images\\531339c9-f1b3-4ffb-9e09-cc07a027fa67.jpg",
+      "PackagePath": "staticwebassets\\Images\\531339c9-f1b3-4ffb-9e09-cc07a027fa67.jpg"
+    },
+    {
+      "Id": "E:\\materials\\ShoppingCart\\ShoppingCart\\wwwroot\\Images\\5665a1c9-dad6-445d-9961-9a607cc66904.jpg",
+      "PackagePath": "staticwebassets\\Images\\5665a1c9-dad6-445d-9961-9a607cc66904.jpg"
+    },
+    {
+      "Id": "E:\\materials\\ShoppingCart\\ShoppingCart\\wwwroot\\Images\\67c48fb3-3e26-4c91-9a45-58c22cb1ffa6.jpg",
+      "PackagePath": "staticwebassets\\Images\\67c48fb3-3e26-4c91-9a45-58c22cb1ffa6.jpg"
+    },
+    {
+      "Id": "E:\\materials\\ShoppingCart\\ShoppingCart\\wwwroot\\Images\\728c6855-aef9-4033-a2a4-d1161fb7d587.png",
+      "PackagePath": "staticwebassets\\Images\\728c6855-aef9-4033-a2a4-d1161fb7d587.png"
+    },
+    {
+      "Id": "E:\\materials\\ShoppingCart\\ShoppingCart\\wwwroot\\Images\\73e9e2bb-2093-41cc-98f4-144802bb0d65.jpg",
+      "PackagePath": "staticwebassets\\Images\\73e9e2bb-2093-41cc-98f4-144802bb0d65.jpg"
+    },
+    {
+      "Id": "E:\\materials\\ShoppingCart\\ShoppingCart\\wwwroot\\Images\\74d15db1-cb10-48b6-8d14-3283cffb0300.jpg",
+      "PackagePath": "staticwebassets\\Images\\74d15db1-cb10-48b6-8d14-3283cffb0300.jpg"
+    },
+    {
+      "Id": "E:\\materials\\ShoppingCart\\ShoppingCart\\wwwroot\\Images\\751b2320-d624-4408-a0f3-3cc2a0ac7b6b.jpg",
+      "PackagePath": "staticwebassets\\Images\\751b2320-d624-4408-a0f3-3cc2a0ac7b6b.jpg"
+    },
+    {
+      "Id": "E:\\materials\\ShoppingCart\\ShoppingCart\\wwwroot\\Images\\78c8a6e5-c8b0-4472-aa68-eeeea30565ee.png",
+      "PackagePath": "staticwebassets\\Images\\78c8a6e5-c8b0-4472-aa68-eeeea30565ee.png"
+    },
+    {
+      "Id": "E:\\materials\\ShoppingCart\\ShoppingCart\\wwwroot\\Images\\7f29ee99-bd30-46fb-98a9-e6687bfbfc65.jpg",
+      "PackagePath": "staticwebassets\\Images\\7f29ee99-bd30-46fb-98a9-e6687bfbfc65.jpg"
+    },
+    {
+      "Id": "E:\\materials\\ShoppingCart\\ShoppingCart\\wwwroot\\Images\\822e9141-289f-4498-8d55-9a65c471e2ad.jpg",
+      "PackagePath": "staticwebassets\\Images\\822e9141-289f-4498-8d55-9a65c471e2ad.jpg"
+    },
+    {
+      "Id": "E:\\materials\\ShoppingCart\\ShoppingCart\\wwwroot\\Images\\82cb35b7-0967-45d0-8854-1143f11fed3c.jpg",
+      "PackagePath": "staticwebassets\\Images\\82cb35b7-0967-45d0-8854-1143f11fed3c.jpg"
+    },
+    {
+      "Id": "E:\\materials\\ShoppingCart\\ShoppingCart\\wwwroot\\Images\\95d73a9c-68e6-42c5-8e70-ef3590135ff0.jpg",
+      "PackagePath": "staticwebassets\\Images\\95d73a9c-68e6-42c5-8e70-ef3590135ff0.jpg"
+    },
+    {
+      "Id": "E:\\materials\\ShoppingCart\\ShoppingCart\\wwwroot\\Images\\NoImage.png",
+      "PackagePath": "staticwebassets\\Images\\NoImage.png"
+    },
+    {
+      "Id": "E:\\materials\\ShoppingCart\\ShoppingCart\\wwwroot\\Images\\a245a140-bcdd-4301-84cb-7d244b8d012e.jpg",
+      "PackagePath": "staticwebassets\\Images\\a245a140-bcdd-4301-84cb-7d244b8d012e.jpg"
+    },
+    {
+      "Id": "E:\\materials\\ShoppingCart\\ShoppingCart\\wwwroot\\Images\\a7866923-4b78-404b-ac20-8a2653e8aedd.jpg",
+      "PackagePath": "staticwebassets\\Images\\a7866923-4b78-404b-ac20-8a2653e8aedd.jpg"
+    },
+    {
+      "Id": "E:\\materials\\ShoppingCart\\ShoppingCart\\wwwroot\\Images\\a8828330-df99-40c0-b6ed-bf540749f479.jpg",
+      "PackagePath": "staticwebassets\\Images\\a8828330-df99-40c0-b6ed-bf540749f479.jpg"
+    },
+    {
+      "Id": "E:\\materials\\ShoppingCart\\ShoppingCart\\wwwroot\\Images\\ab0f3649-42c0-464c-bfcf-3dbe9840d544.jpg",
+      "PackagePath": "staticwebassets\\Images\\ab0f3649-42c0-464c-bfcf-3dbe9840d544.jpg"
+    },
+    {
+      "Id": "E:\\materials\\ShoppingCart\\ShoppingCart\\wwwroot\\Images\\ab4bbf33-8896-4254-94b2-03024fc0a218.jpg",
+      "PackagePath": "staticwebassets\\Images\\ab4bbf33-8896-4254-94b2-03024fc0a218.jpg"
+    },
+    {
+      "Id": "E:\\materials\\ShoppingCart\\ShoppingCart\\wwwroot\\Images\\b2f35d0a-6941-4c7d-8e46-339312d208b1.jpg",
+      "PackagePath": "staticwebassets\\Images\\b2f35d0a-6941-4c7d-8e46-339312d208b1.jpg"
+    },
+    {
+      "Id": "E:\\materials\\ShoppingCart\\ShoppingCart\\wwwroot\\Images\\b4a43531-7e11-4a04-8282-aa5b1da46521.png",
+      "PackagePath": "staticwebassets\\Images\\b4a43531-7e11-4a04-8282-aa5b1da46521.png"
+    },
+    {
+      "Id": "E:\\materials\\ShoppingCart\\ShoppingCart\\wwwroot\\Images\\c77491e8-6f82-436f-a974-2b020d43c0e8.jpg",
+      "PackagePath": "staticwebassets\\Images\\c77491e8-6f82-436f-a974-2b020d43c0e8.jpg"
+    },
+    {
+      "Id": "E:\\materials\\ShoppingCart\\ShoppingCart\\wwwroot\\Images\\cafbfd9b-2ad7-4672-9efd-9dcdcb42738e.jpg",
+      "PackagePath": "staticwebassets\\Images\\cafbfd9b-2ad7-4672-9efd-9dcdcb42738e.jpg"
+    },
+    {
+      "Id": "E:\\materials\\ShoppingCart\\ShoppingCart\\wwwroot\\Images\\cdc6fa93-0fb9-47bf-8958-99923041f001.jpg",
+      "PackagePath": "staticwebassets\\Images\\cdc6fa93-0fb9-47bf-8958-99923041f001.jpg"
+    },
+    {
+      "Id": "E:\\materials\\ShoppingCart\\ShoppingCart\\wwwroot\\Images\\d1d573cd-f29e-43f0-ba82-a7a1de98c1f4.jpg",
+      "PackagePath": "staticwebassets\\Images\\d1d573cd-f29e-43f0-ba82-a7a1de98c1f4.jpg"
+    },
+    {
+      "Id": "E:\\materials\\ShoppingCart\\ShoppingCart\\wwwroot\\Images\\d75be1bd-f0d5-49fd-b0ce-c9d193d48e99.jpg",
+      "PackagePath": "staticwebassets\\Images\\d75be1bd-f0d5-49fd-b0ce-c9d193d48e99.jpg"
+    },
+    {
+      "Id": "E:\\materials\\ShoppingCart\\ShoppingCart\\wwwroot\\Images\\da208e68-8389-4894-bdf2-271d27e2d3d9.jpg",
+      "PackagePath": "staticwebassets\\Images\\da208e68-8389-4894-bdf2-271d27e2d3d9.jpg"
+    },
+    {
+      "Id": "E:\\materials\\ShoppingCart\\ShoppingCart\\wwwroot\\Images\\de240429-a22e-43d1-87c3-1f11f4af6d37.jpg",
+      "PackagePath": "staticwebassets\\Images\\de240429-a22e-43d1-87c3-1f11f4af6d37.jpg"
+    },
+    {
+      "Id": "E:\\materials\\ShoppingCart\\ShoppingCart\\wwwroot\\Images\\e902fe73-d4ed-4fc3-b0cf-03f8b37388a4.png",
+      "PackagePath": "staticwebassets\\Images\\e902fe73-d4ed-4fc3-b0cf-03f8b37388a4.png"
+    },
+    {
+      "Id": "E:\\materials\\ShoppingCart\\ShoppingCart\\wwwroot\\Images\\ed461efe-5db8-4e3c-9ab1-703ccb1775db.jpg",
+      "PackagePath": "staticwebassets\\Images\\ed461efe-5db8-4e3c-9ab1-703ccb1775db.jpg"
+    },
+    {
+      "Id": "E:\\materials\\ShoppingCart\\ShoppingCart\\wwwroot\\Images\\eef7d5f4-89fa-46f0-98c7-0b2d1e5888c6.jpg",
+      "PackagePath": "staticwebassets\\Images\\eef7d5f4-89fa-46f0-98c7-0b2d1e5888c6.jpg"
+    },
+    {
+      "Id": "E:\\materials\\ShoppingCart\\ShoppingCart\\wwwroot\\Images\\ef0e0e78-13ea-4a1a-ba1d-b6dea81d8f4b.jpg",
+      "PackagePath": "staticwebassets\\Images\\ef0e0e78-13ea-4a1a-ba1d-b6dea81d8f4b.jpg"
+    },
+    {
+      "Id": "E:\\materials\\ShoppingCart\\ShoppingCart\\wwwroot\\Images\\f39243c4-6bd6-4850-86d1-8c8f0c76b372.jpg",
+      "PackagePath": "staticwebassets\\Images\\f39243c4-6bd6-4850-86d1-8c8f0c76b372.jpg"
+    },
+    {
+      "Id": "E:\\materials\\ShoppingCart\\ShoppingCart\\wwwroot\\Images\\fa6eee05-5997-4b7d-b0c6-0ad84d8fb42b.jpg",
+      "PackagePath": "staticwebassets\\Images\\fa6eee05-5997-4b7d-b0c6-0ad84d8fb42b.jpg"
+    },
+    {
+      "Id": "E:\\materials\\ShoppingCart\\ShoppingCart\\wwwroot\\Images\\fe249b25-13cf-4cda-bfb0-408cf3d99e6d.jpg",
+      "PackagePath": "staticwebassets\\Images\\fe249b25-13cf-4cda-bfb0-408cf3d99e6d.jpg"
+    },
+    {
+      "Id": "E:\\materials\\ShoppingCart\\ShoppingCart\\wwwroot\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "E:\\materials\\ShoppingCart\\ShoppingCart\\wwwroot\\css\\bootstrap.sidebar.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap.sidebar.css"
+    },
+    {
+      "Id": "E:\\materials\\ShoppingCart\\ShoppingCart\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "E:\\materials\\ShoppingCart\\ShoppingCart\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "E:\\materials\\ShoppingCart\\ShoppingCart\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "E:\\materials\\ShoppingCart\\ShoppingCart\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "E:\\materials\\ShoppingCart\\ShoppingCart\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "E:\\materials\\ShoppingCart\\ShoppingCart\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "E:\\materials\\ShoppingCart\\ShoppingCart\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "E:\\materials\\ShoppingCart\\ShoppingCart\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "E:\\materials\\ShoppingCart\\ShoppingCart\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "E:\\materials\\ShoppingCart\\ShoppingCart\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "E:\\materials\\ShoppingCart\\ShoppingCart\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "E:\\materials\\ShoppingCart\\ShoppingCart\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "E:\\materials\\ShoppingCart\\ShoppingCart\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "E:\\materials\\ShoppingCart\\ShoppingCart\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "E:\\materials\\ShoppingCart\\ShoppingCart\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "E:\\materials\\ShoppingCart\\ShoppingCart\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "E:\\materials\\ShoppingCart\\ShoppingCart\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "E:\\materials\\ShoppingCart\\ShoppingCart\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "E:\\materials\\ShoppingCart\\ShoppingCart\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "E:\\materials\\ShoppingCart\\ShoppingCart\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "E:\\materials\\ShoppingCart\\ShoppingCart\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "E:\\materials\\ShoppingCart\\ShoppingCart\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "E:\\materials\\ShoppingCart\\ShoppingCart\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "E:\\materials\\ShoppingCart\\ShoppingCart\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "E:\\materials\\ShoppingCart\\ShoppingCart\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "E:\\materials\\ShoppingCart\\ShoppingCart\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "E:\\materials\\ShoppingCart\\ShoppingCart\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "E:\\materials\\ShoppingCart\\ShoppingCart\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "E:\\materials\\ShoppingCart\\ShoppingCart\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "E:\\materials\\ShoppingCart\\ShoppingCart\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "E:\\materials\\ShoppingCart\\ShoppingCart\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "E:\\materials\\ShoppingCart\\ShoppingCart\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "E:\\materials\\ShoppingCart\\ShoppingCart\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "E:\\materials\\ShoppingCart\\ShoppingCart\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "E:\\materials\\ShoppingCart\\ShoppingCart\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "E:\\materials\\ShoppingCart\\ShoppingCart\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "E:\\materials\\ShoppingCart\\ShoppingCart\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "E:\\materials\\ShoppingCart\\ShoppingCart\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "E:\\materials\\ShoppingCart\\ShoppingCart\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "E:\\materials\\ShoppingCart\\ShoppingCart\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "E:\\materials\\ShoppingCart\\ShoppingCart\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "E:\\materials\\ShoppingCart\\ShoppingCart\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "E:\\materials\\ShoppingCart\\ShoppingCart\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "E:\\materials\\ShoppingCart\\ShoppingCart\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "E:\\materials\\ShoppingCart\\ShoppingCart\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "E:\\materials\\ShoppingCart\\ShoppingCart\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "E:\\materials\\ShoppingCart\\ShoppingCart\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "E:\\materials\\ShoppingCart\\ShoppingCart\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "E:\\materials\\ShoppingCart\\ShoppingCart\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "E:\\materials\\ShoppingCart\\ShoppingCart\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "E:\\materials\\ShoppingCart\\ShoppingCart\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "E:\\materials\\ShoppingCart\\ShoppingCart\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "E:\\materials\\ShoppingCart\\ShoppingCart\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "E:\\materials\\ShoppingCart\\ShoppingCart\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "E:\\materials\\ShoppingCart\\ShoppingCart\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "E:\\materials\\ShoppingCart\\ShoppingCart\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "E:\\materials\\ShoppingCart\\ShoppingCart\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "E:\\materials\\ShoppingCart\\ShoppingCart\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.ShoppingCart.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.ShoppingCart.props",
+      "PackagePath": "build\\ShoppingCart.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.ShoppingCart.props",
+      "PackagePath": "buildMultiTargeting\\ShoppingCart.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.ShoppingCart.props",
+      "PackagePath": "buildTransitive\\ShoppingCart.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

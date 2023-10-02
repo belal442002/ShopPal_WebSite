@@ -1,0 +1,107 @@
+﻿@using Microsoft.AspNetCore.Identity
+@inject SignInManager<IdentityUser> SignInManager
+@inject UserManager<IdentityUser> UserManager
+@{
+    ViewData["Title"] = "Home Page";
+}
+@model DisplayAllProductsHome
+
+
+<div class="my-2">
+    <form class="row row-cols-lg-auto g-3 align-items-center" asp-controller="Home" asp-action="Index">
+
+        <div class="col-12">
+            <label class="visually-hidden" for="inlineFormSelectPref">Categories</label>
+            <select class="form-select" id="inlineFormSelectPref" name="CategoryId">
+                <option selected>Choose...</option>
+                @foreach (var category in Model.categories)
+                {
+                    if (category.Id == Model.CategoryId)
+                    {
+                        <option selected value="@category.Id">@category.Name</option>
+                    }
+                    else
+                    {
+                        <option value="@category.Id">@category.Name</option>
+                    }
+                }
+            </select>
+        </div>
+
+
+        <div class="col-12">
+            <label class="visually-hidden" for="inlineFormInputGroupUsername">Search by name</label>
+            <div class="input-group">
+                <div class="input-group-text"></div>
+                <input asp-for="SearchFor" class="form-control" placeholder="Search by name">
+            </div>
+        </div>
+
+        <div class="col-12">
+            <button type="submit" class="btn btn-primary">Search</button>
+            <a href="/Home/Index" class="btn btn-primary ">reset</a>
+        </div>
+    </form>
+</div>
+<div>
+    @if (SignInManager.IsSignedIn(User) && User.IsInRole("Admin"))
+    {
+        <a href="/Admin/AddProduct" class="btn btn-primary btn-lg">Add new product</a>
+
+    }
+</div>
+<div class="w-100 mt-4 d-flex flex-wrap ">
+    @foreach (var p in Model.products)
+    {
+        String image = p.Image == null ? "NoImage.png" : p.Image;
+        <div class="card mx-2 mb-4" style="width: 18rem;">
+            <img src="/Images/@image" class="card-img-top" alt="..." style="width:300px;height:300px;">
+            <div class="card-body">
+                <h5 class="card-title">@p.Name</h5>
+                <p class="card-text">@p.Description</p>
+                <p><b>Price:</b> @p.Price</p>
+                <p><b>Category:</b> @p.CategoryName</p>
+                <button onclick="add(@p.Id)" class="btn btn-primary" type="button">Add To Cart</button>
+                @if(SignInManager.IsSignedIn(User) && User.IsInRole("Admin"))
+                {
+                    <a href="/Admin/Edit?ProductId=@p.Id" class="btn btn-primary">Edit</a>
+                    <button type="button" onclick="deleteProduct(@p.Id)" class="btn btn-primary">Delet</button>
+                }
+                
+            </div>
+        </div>
+    }
+</div>
+
+@section scripts{
+    <script>
+        async function add(ProductId) {
+
+            try {
+                var userAccountEl = document.getElementById("userAccount");
+                if (userAccountEl == null) {
+                    window.location.href = "/Identity/Account/Login";
+                }
+                var response = await fetch(`/Cart/AddItem?ProductId=${ProductId}`);
+                if (response.status == 200) {
+                    var result = await response.json();
+                    console.log(result);
+                    var cartCountEl = document.getElementById("cartCount");
+                    cartCountEl.innerHTML = result;
+                    window.location.href = "#cartCount";
+                }
+            }
+            catch (err) {
+                console.log(err);
+            }
+        }
+
+        function deleteProduct(ProductId) {
+            var result = window.confirm("Are you sure you want to delete this item?");
+            if (result) {
+                window.location.href = "/Admin/Delete?ProductId=" + ProductId;
+            }
+        }
+
+    </script>
+}
